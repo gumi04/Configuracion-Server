@@ -10,8 +10,9 @@
 *
 * Nombre de archivo: ApplicationStarter.java
 * Autor: gcontrer
-* Fecha de creación: 13 sep 2021
+* Fecha de creación: 14 sep. 2021
 */
+
 
 package com.tis.mx;
 
